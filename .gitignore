@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+/js/node_modules
+/js/package*
+/js/output*.txt
+
+/python/venv
+/python/output*
